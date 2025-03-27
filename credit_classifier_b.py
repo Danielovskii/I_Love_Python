@@ -7,8 +7,8 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-train_data = pd.read_csv('creditCardDefault_train.csv')
-test_data = pd.read_csv('creditCardDefault_test.csv')
+train_data = pd.read_csv('data1_train.csv')
+test_data = pd.read_csv('data2_test.csv')
 
 predictor_names = ['creditLimit', 'gender', 'edu', 'age', 'nDelay', 'billAmt1', 'billAmt2', 
                   'billAmt3', 'billAmt4', 'billAmt5', 'billAmt6']
