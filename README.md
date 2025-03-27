@@ -84,5 +84,3 @@ El script `credit_classifier.py` genera los siguientes resultados:
   - Top 5 características de Random Forest.
   - Mejores umbrales basados en G-mean.
   - Evaluación detallada con precisión, AUC y matrices de confusión.
-
-Ejemplo de salida (los valores dependerán de los datos):
