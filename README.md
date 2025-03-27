@@ -71,7 +71,7 @@ Los datos se dividieron en entrenamiento (`train`) y prueba (`test`) para entren
 - **Matrices de confusión**: Presentadas para ambos modelos con valores de Verdaderos Negativos (TN), Falsos Positivos (FP), Falsos Negativos (FN) y Verdaderos Positivos (TP).
 - **Importancia de características**: Para Random Forest, se listaron las 5 variables más influyentes.
 
-## Results
+## Resultados
 
 El script `credit_classifier.py` genera los siguientes resultados:
 - **Gráficos**:
